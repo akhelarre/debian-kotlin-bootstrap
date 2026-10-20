@@ -140,7 +140,3 @@ emulator -avd Pixel_API_35
 > **Note:** The setup automatically patches `~/.android/avd/Pixel_API_35.avd/config.ini` with `hw.gpu.mode=host`, `hw.ramSize=4096`, and `hw.keyboard=yes` for native hardware GPU acceleration and physical keyboard input.
 
 ```
-
-<FollowUp>
-- ¿Deseas que agregue una sección de troubleshooting para resolver problemas de aceleración de hardware KVM anidada en VirtualBox o KVM?
-</FollowUp>
